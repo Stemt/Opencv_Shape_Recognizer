@@ -46,6 +46,8 @@ Which should be followed up by one of the following shapes:
 - circle
 - half-circle
 
+Then once enter is pressed a window will show the shape of that particular color being recognized
+
 #### Scripts
 
 You can use the `-f` option to load a text file containing a series of commands.
