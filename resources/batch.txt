@@ -1,0 +1,4 @@
+yellow square
+yellow driehoek
+pink square
+#green half-circle
