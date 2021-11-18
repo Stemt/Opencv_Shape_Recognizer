@@ -1,3 +1,0 @@
-/home/ar/Documents/portofolio/Opencv_Shape_Recognizer/build/CMakeFiles/rebuild_cache.dir
-/home/ar/Documents/portofolio/Opencv_Shape_Recognizer/build/CMakeFiles/edit_cache.dir
-/home/ar/Documents/portofolio/Opencv_Shape_Recognizer/build/CMakeFiles/recognize.dir
